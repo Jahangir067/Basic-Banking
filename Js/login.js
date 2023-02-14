@@ -14,6 +14,6 @@ document.getElementById('btn-submit').addEventListener('click', function(){
         window.location.href = 'bank.html';
     }
     else{
-        alert('Please Enter a Valid Email or Password');
+        alert('Here The Login Info --- Email: sontan@baap.com, Password: secret');
     }
 })
